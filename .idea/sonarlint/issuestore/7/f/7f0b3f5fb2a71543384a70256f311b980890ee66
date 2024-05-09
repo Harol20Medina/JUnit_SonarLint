@@ -1,0 +1,18 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŸùôÖJ$bac5a578-f661-421c-9dd6-e17ccae4f8fd
+
+java:S1854">Remove this useless assignment to local variable "empleados1".(ÓáªùÿÿÿÿJ$034e6086-faf0-4fa4-9132-b1bb945a484b
+‡
+java:S1854"FRemove this useless assignment to local variable "registrosAfectador".(—İâºøÿÿÿÿJ$5176ff22-2e49-42f7-a3e5-6fd0c029de30
+{
+java:S1854"?Remove this useless assignment to local variable "empleadoDAO".(—»ö¬J$b931b770-1c56-438b-96cd-25571c751e9f
+k	java:S106"+Replace this use of System.out by a logger.(¥„¦úúÿÿÿÿJ$7658cada-8d47-4249-ae37-913a8d0f0560
+l
+java:S1481"0Remove this unused "empleadoDAO" local variable.(—»ö¬J$010080aa-35f2-47e6-85ae-8b37801d5935
+x
+java:S1481"7Remove this unused "registrosAfectador" local variable.(—İâºøÿÿÿÿJ$eee57eec-dced-44ea-b198-790a39c95378
+p
+java:S1481"/Remove this unused "empleados1" local variable.(ÓáªùÿÿÿÿJ$ae226944-9bbb-4b04-9557-23cd2b323f08
+k	java:S106!"+Replace this use of System.out by a logger.(¥„¦úúÿÿÿÿJ$ac8deef1-8904-470f-a1c1-5c29b8160b54
+|	java:S125+"<This block of commented-out lines of code should be removed.(â¯—ûÿÿÿÿJ$5d35ddfc-8eb2-4e37-a4ec-1b7af812296b
+|	java:S125<"<This block of commented-out lines of code should be removed.(â¯—ûÿÿÿÿJ$e4a5ff00-f6b6-4922-985b-277992ab026c

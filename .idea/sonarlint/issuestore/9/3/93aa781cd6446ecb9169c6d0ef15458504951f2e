@@ -1,0 +1,13 @@
+
+Š
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(çÆë=J$1fede0ad-5a4c-4e22-8e2d-0bb7e281dd15
+`
+java:S6905	"Don't use the query "SELECT *".(á‚–øÿÿÿÿJ$4be124df-d4f5-4176-9fde-305707827d2d
+k	java:S106$"+Replace this use of System.out by a logger.(Åî’¤ùÿÿÿÿJ$1b01ad7c-344a-4bfa-a0cf-bef458d91f82
+k	java:S106+"+Replace this use of System.out by a logger.(Åî’¤ùÿÿÿÿJ$cfc4c6a7-5354-4786-9e9f-5244b8c561fb
+k	java:S106@"+Replace this use of System.out by a logger.(Åî’¤ùÿÿÿÿJ$8efbc540-f30a-450e-bca7-2c9cdf5ad8ad
+k	java:S106F"+Replace this use of System.out by a logger.(Åî’¤ùÿÿÿÿJ$d8ffd23b-30d4-4f92-851b-bfec05b878fc
+k	java:S106]"+Replace this use of System.out by a logger.(Åî’¤ùÿÿÿÿJ$967f7639-8b57-4428-a53a-128d8f7ca3c9
+k	java:S106c"+Replace this use of System.out by a logger.(Åî’¤ùÿÿÿÿJ$5eef137e-e159-46e1-adaa-f46effc9807c
+k	java:S106u"+Replace this use of System.out by a logger.(Åî’¤ùÿÿÿÿJ$6861522f-eebf-4de2-8638-af40172799f8
+k	java:S106{"+Replace this use of System.out by a logger.(Åî’¤ùÿÿÿÿJ$d80aff23-4cf1-4e56-85d4-8e2270e98537
